@@ -17,7 +17,7 @@ Esta es una calculadora sencilla desarrollada en Python utilizando la biblioteca
 
 1. Clona el repositorio:
    ```
-   git clone https://github.com/
+   git clone https://github.com/Marrcos15/calculadora-app
    ```
 2. Instala las dependencias (si es necesario):
    ```
